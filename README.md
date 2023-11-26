@@ -10,4 +10,7 @@ The objective of this assignment is to build an adaptive deep-learning model for
 3. Load your desired images by replacing the file path in the 6th cell
 4. Appropriate comments are mentioned at each cell to assist you in running the code.
 
+# Sample Outputs
+![Dog + Cubism](https://github.com/BladeBlizzard19/Aditya-Kulkarni_Dashtoon-Assignment/blob/main/Test1.png)
+![Octopus + Starry Nights](https://github.com/BladeBlizzard19/Aditya-Kulkarni_Dashtoon-Assignment/blob/main/Test2.png)
 
